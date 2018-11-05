@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20181105</CreaDate><CreaTime>12494300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\JSONToFeatures" Date="20181105" Time="124943">JSONToFeatures C:\Users\kd172\AppData\Local\Temp\9b7d30cf9e4f46af9cf15b11af40c345.json .\MyFeatures.shp Polygon</Process></lineage></DataProperties></Esri></metadata>
